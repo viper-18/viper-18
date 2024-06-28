@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dharrsan Amarnath</h1>
-<h3 align="center">Go Developer, Kubernetes enthusiast, Platform Engineer</h3>
+<h3 align="center">Kubernetes enthusiast, DevOps/Platform Engineer, Go Developer, Linux Admin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viper-18&label=Profile%20views&color=0e75b6&style=flat" alt="viper-18" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🥸 Enrolled in VIT University, Vellore **B.Tech Computer Science Engineering with specialisation in Information Security**
 
-- 👨‍💻 All of my public projects are available at [https://github.com/viper-18](https://github.com/viper-18)
+- 💻 Previously Interned at Mphasis Ltd **DevOps Engineer**
 
 - 💬 Ask me about Kubernetes, AWS, Golang, Python **Linux (RHEL based) like Fedora.**
 
